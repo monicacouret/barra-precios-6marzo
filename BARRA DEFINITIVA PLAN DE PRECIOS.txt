@@ -306,12 +306,16 @@
                         </li>
                         
                          <li class="top"><a id="comiteglobal" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-global-de-coordinacion" target="_parent">Comité Global</a>
+                         
+                        </li>
+                        
+                         <li class="top"><a id="comitelocal" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-local-1" target="_parent">Comité Local</a>
                         
                         </li>
                         
                         <li class="top"><a id="comitelocal" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-local-1"_parent">Comité Local</a>
                         
-                        </li>
+                       </li>
                         
                         <li class="top"><a id="repositorio" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/home/fase-estrategica-2015-2017/repositorio" target="_parent">Repositorio</a>
                         
