@@ -289,7 +289,7 @@
         <div id="menu">
                 <ul id="dropline">
                         <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/home/fase-estrategica-2015-2017" target="_parent" onclick="mark"></a></li>
-                        <li class="top"><a id="Informacióngeneral" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/home/fase-estrategica-2015-2017/informacion-general" target="_parent">Información General</a>
+                        <li class="top"><a id="Información" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/home/fase-estrategica-2015-2017/informacion-general" target="_parent">Información</a>
 
                         </li>
                         
@@ -305,7 +305,11 @@
                         
                         </li>
                         
-                         <li class="top"><a id="comiteglobaldecoordinación" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-global-de-coordinacion" target="_parent">Comité Global de Coordinación</a>
+                         <li class="top"><a id="comiteglobal" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-global-de-coordinacion" target="_parent">Comité Global</a>
+                        
+                        </li>
+                        
+                        <li class="top"><a id="comitelocal" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-local"_parent">Comité Local</a>
                         
                         </li>
                         
