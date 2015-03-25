@@ -309,7 +309,7 @@
                         
                         </li>
                         
-                        <li class="top"><a id="comitelocal" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-local"_parent">Comité Local</a>
+                        <li class="top"><a id="comitelocal" class="principal" href="https://sites.google.com/a/bbva.com/plan-de-transformacion-de-gestion-de-precios/comite-local-1"_parent">Comité Local</a>
                         
                         </li>
                         
